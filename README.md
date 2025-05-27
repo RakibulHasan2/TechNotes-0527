@@ -32,10 +32,6 @@ Guidelines and examples for structuring project directories.
 Links to video content hosted externally (e.g., YouTube, Google Drive) related to my projects or notes.  
 **Purpose:** Sharing multimedia resources without bloating the repo.
 
-### 🔹 Senior LEVEL
-Advanced programming challenges, notes, and solutions for senior-level concepts.  
-**Purpose:** Deepening expertise in complex technical topics.
-
 ---
 
 ## 🚀 How to Use
@@ -64,3 +60,13 @@ git commit -m "Add your message"
 
 # Push to your branch
 git push origin feature-branch
+
+
+📝 License
+This project is currently unlicensed.
+Feel free to contact me if you’d like to discuss usage terms.
+
+📬 Contact
+Author: Rakibul Hasan
+GitHub: RakibulHasan2
+Date Created: May 27, 2025
