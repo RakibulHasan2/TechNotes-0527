@@ -61,12 +61,14 @@ git commit -m "Add your message"
 # Push to your branch
 git push origin feature-branch
 
+```
 
-📝 License
-This project is currently unlicensed.
-Feel free to contact me if you’d like to discuss usage terms.
 
-📬 Contact
-Author: Rakibul Hasan
-GitHub: RakibulHasan2
-Date Created: May 27, 2025
+## 📝 License
+- This project is currently unlicensed.
+- Feel free to contact me if you’d like to discuss usage terms.
+
+## 📬 Contact
+* Author: Rakibul Hasan
+* GitHub: RakibulHasan2
+* Date Created: May 27, 2025
