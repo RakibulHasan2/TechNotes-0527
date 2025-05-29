@@ -28,6 +28,10 @@ Resources, templates, and notes on managing software projects effectively.
 Guidelines and examples for structuring project directories.  
 **Purpose:** Standardizing folder organization for better project management.
 
+### 🔹  Clean Code & Refactoring
+Principles, techniques, examples, and reference files related to writing clean, maintainable code and improving existing codebases through refactoring.
+**Purpose:** Mastering code quality through best practices and architectural principles.
+
 ### 🔹 Video Recording
 Links to video content hosted externally (e.g., YouTube, Google Drive) related to my projects or notes.  
 **Purpose:** Sharing multimedia resources without bloating the repo.
